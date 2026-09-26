@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**maham146/maham146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Maham**, a BSCS student at Fatima Jinnah Women University, Pakistan (2025–2029).
 
-Here are some ideas to get you started:
+I build things across full-stack web dev, and AI-integrated apps — 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **Node.js, Express, MongoDB/Mongoose, EJS, Bootstrap, MySQL**. I've also worked with Java/Swing/Oracle.
+
+### 🔭 What I've built 
+- **WanderLust** — a full-stack Airbnb-style property listing platform
+
+### 🌱 What I'm learning
+Open-source workflows — I just merged my first pull request, and I'm hooked.
+
+### 👯 I'd love to collaborate on
+Socially impactful tech .
+
