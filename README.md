@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Maham**, a BSCS student at Fatima Jinnah Women University, Pakistan (2025–2029).
+I'm **Maham**, a BSCS student at Fatima Jinnah Women University, Pakistan .
 
 I build things across full-stack web dev, and AI-integrated apps — 
 
