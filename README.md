@@ -1,7 +1,7 @@
 ![Maham Abid — Full Stack Dev](./banner.png)
 # Hey there! 👋
 
-I'm **Maham**, a BSCS student at Fatima Jinnah Women University, Pakistan .
+I'm **Maham**, a BSCS student .
 
 I build things across full-stack web dev, and AI-integrated apps — 
 
