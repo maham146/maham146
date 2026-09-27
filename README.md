@@ -1,4 +1,4 @@
-![Maham Abid — Full Stack Dev](./<Blue and White Modern Professional Social Media LinkedIn Background Photo (1).png>)
+![Maham Abid — Full Stack Dev](./banner.png)
 # Hey there! 👋
 
 I'm **Maham**, a BSCS student at Fatima Jinnah Women University, Pakistan .
